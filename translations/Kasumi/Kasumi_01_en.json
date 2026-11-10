@@ -1,0 +1,494 @@
+[
+  [
+    3100,
+    "Kasumi: 「{Me}！」"
+  ],
+  [
+    23688,
+    "@goto 01_Main.End"
+  ],
+  [
+    23940,
+    "As housekeeper, the kitchen is my primary workplace."
+  ],
+  [
+    24424,
+    "And no matter how many times I see it, I'm still impressed by this place."
+  ],
+  [
+    24932,
+    "Even though it's in a rural area, the indoor environment is far from neglected. It's beautiful and quite tidy."
+  ],
+  [
+    25476,
+    "It's evident that they cherish this place a lot and come from a wealthy family."
+  ],
+  [
+    26020,
+    "“{Me}!”"
+  ],
+  [
+    26040,
+    "{Me}"
+  ],
+  [
+    26076,
+    "Kasumi"
+  ],
+  [
+    26460,
+    "“Kasumi, what's up?”"
+  ],
+  [
+    26572,
+    "{Me}"
+  ],
+  [
+    26584,
+    "{Me}"
+  ],
+  [
+    26940,
+    "“Just checking in to see how you're doing, are you getting used to being here?”"
+  ],
+  [
+    27080,
+    "Kasumi"
+  ],
+  [
+    27464,
+    "“Yeah, no problems!”"
+  ],
+  [
+    27576,
+    "{Me}"
+  ],
+  [
+    27588,
+    "{Me}"
+  ],
+  [
+    27944,
+    "“That's good to hear. I was worried you might find it hard to adjust.”"
+  ],
+  [
+    28076,
+    "Kasumi"
+  ],
+  [
+    28460,
+    "“After all, it's quite rural here. There's poor cell reception, not much interesting stuff around, and lots of bugs...”"
+  ],
+  [
+    28640,
+    "Kasumi"
+  ],
+  [
+    29024,
+    "“Not at all, it's peaceful and quiet, and the people in the village are really friendly.”"
+  ],
+  [
+    29208,
+    "{Me}"
+  ],
+  [
+    29220,
+    "{Me}"
+  ],
+  [
+    29576,
+    "“Plus, the rooms have soft beds, a huge upgrade from where I used to live!”"
+  ],
+  [
+    29744,
+    "{Me}"
+  ],
+  [
+    29756,
+    "{Me}"
+  ],
+  [
+    30112,
+    "“Ah, I asked Shizuko about some things concerning you...”"
+  ],
+  [
+    30232,
+    "Kasumi"
+  ],
+  [
+    30616,
+    "“You've really had it tough...”"
+  ],
+  [
+    30708,
+    "Kasumi"
+  ],
+  [
+    31092,
+    "“So I'm really grateful to you and your sisters for giving me this opportunity—”"
+  ],
+  [
+    31268,
+    "{Me}"
+  ],
+  [
+    31280,
+    "{Me}"
+  ],
+  [
+    31636,
+    "“I'll do my best, and if there's anything I'm not doing right, please let me know!”"
+  ],
+  [
+    31812,
+    "{Me}"
+  ],
+  [
+    31824,
+    "{Me}"
+  ],
+  [
+    32180,
+    "“Hehe, don't worry about it, chin up.”"
+  ],
+  [
+    32280,
+    "Kasumi"
+  ],
+  [
+    32664,
+    "“Like I said before, we're not great at cooking, so we're really counting on you for that!”"
+  ],
+  [
+    32816,
+    "Kasumi"
+  ],
+  [
+    33200,
+    "“Leave it to me, I'll make sure you have delicious meals every day!”"
+  ],
+  [
+    33360,
+    "{Me}"
+  ],
+  [
+    33372,
+    "{Me}"
+  ],
+  [
+    33728,
+    "“I'm looking forward to it—So, are you planning to cook dinner now?”"
+  ],
+  [
+    33860,
+    "Kasumi"
+  ],
+  [
+    34244,
+    "“Yeah, about to start preparing.”"
+  ],
+  [
+    34372,
+    "{Me}"
+  ],
+  [
+    34384,
+    "{Me}"
+  ],
+  [
+    34740,
+    "“Can I help?”"
+  ],
+  [
+    34816,
+    "Kasumi"
+  ],
+  [
+    35200,
+    "“Oh, no need for that, Kasumi—”"
+  ],
+  [
+    35328,
+    "{Me}"
+  ],
+  [
+    35340,
+    "{Me}"
+  ],
+  [
+    35696,
+    "“Wait, wait!”"
+  ],
+  [
+    35772,
+    "Kasumi"
+  ],
+  [
+    36156,
+    "“Actually... I'm kind of interested in cooking...”"
+  ],
+  [
+    36268,
+    "Kasumi"
+  ],
+  [
+    36652,
+    "“Just never really been good at it...”"
+  ],
+  [
+    36752,
+    "Kasumi"
+  ],
+  [
+    37136,
+    "“So, if it's possible... I hope I can watch how you do it...”"
+  ],
+  [
+    37260,
+    "Kasumi"
+  ],
+  [
+    37644,
+    "“Oh, really...?”"
+  ],
+  [
+    37752,
+    "{Me}"
+  ],
+  [
+    37764,
+    "{Me}"
+  ],
+  [
+    38120,
+    "“Will I be in your way...?”"
+  ],
+  [
+    38208,
+    "Kasumi"
+  ],
+  [
+    38592,
+    "“Not at all, not at all—”"
+  ],
+  [
+    38712,
+    "{Me}"
+  ],
+  [
+    38724,
+    "{Me}"
+  ],
+  [
+    39080,
+    "“If you want to learn, I can teach you.”"
+  ],
+  [
+    39212,
+    "{Me}"
+  ],
+  [
+    39224,
+    "{Me}"
+  ],
+  [
+    39580,
+    "“Wonderful—thank you!”"
+  ],
+  [
+    39664,
+    "Kasumi"
+  ],
+  [
+    40080,
+    "“What are you planning to make for dinner tonight, {Me}?”"
+  ],
+  [
+    40152,
+    "{Me}"
+  ],
+  [
+    40188,
+    "Kasumi"
+  ],
+  [
+    40572,
+    "“Kasumi, is there anything in particular you'd like to eat?”"
+  ],
+  [
+    40724,
+    "{Me}"
+  ],
+  [
+    40736,
+    "{Me}"
+  ],
+  [
+    41092,
+    "“Well... even though it's summer...”"
+  ],
+  [
+    41188,
+    "Kasumi"
+  ],
+  [
+    41572,
+    "“I'm kind of in the mood for something warm and comforting.”"
+  ],
+  [
+    41692,
+    "Kasumi"
+  ],
+  [
+    42076,
+    "“How about oden then? We have the ingredients in the fridge.”"
+  ],
+  [
+    42232,
+    "{Me}"
+  ],
+  [
+    42244,
+    "{Me}"
+  ],
+  [
+    42600,
+    "“Oh— that's a great idea, Ayano and Shizuku love it too!”"
+  ],
+  [
+    42720,
+    "Kasumi"
+  ],
+  [
+    43104,
+    "“Well then, it's decided!”"
+  ],
+  [
+    43224,
+    "{Me}"
+  ],
+  [
+    43236,
+    "{Me}"
+  ],
+  [
+    43592,
+    "“For oden, we'll need a big pot!”"
+  ],
+  [
+    43688,
+    "Kasumi"
+  ],
+  [
+    44072,
+    "“All our pots are stored over here...”"
+  ],
+  [
+    44172,
+    "Kasumi"
+  ],
+  [
+    44556,
+    "Kasumi suddenly turns her back to me and squats down, searching through the storage cabinet."
+  ],
+  [
+    45080,
+    "As she looks for the pot, her posture gradually becomes, well... *cough*"
+  ],
+  [
+    45584,
+    "From where I'm standing, I can't help but notice her extremely enticing butt."
+  ],
+  [
+    46096,
+    "So soft... swaying about."
+  ],
+  [
+    46556,
+    "“Found it!”"
+  ],
+  [
+    46628,
+    "Kasumi"
+  ],
+  [
+    47012,
+    "“How about this one?”"
+  ],
+  [
+    47096,
+    "Kasumi"
+  ],
+  [
+    47480,
+    "“Ah, um... If it's that big...”"
+  ],
+  [
+    47604,
+    "{Me}"
+  ],
+  [
+    47616,
+    "{Me}"
+  ],
+  [
+    47972,
+    "“What's wrong?”"
+  ],
+  [
+    48048,
+    "Kasumi"
+  ],
+  [
+    48432,
+    "“N-N-Nothing!”"
+  ],
+  [
+    48540,
+    "{Me}"
+  ],
+  [
+    48552,
+    "{Me}"
+  ],
+  [
+    48908,
+    "“Are you sure?”"
+  ],
+  [
+    48984,
+    "Kasumi"
+  ],
+  [
+    49368,
+    "“Anyway, let's get started. Making the soup base will take some time!”"
+  ],
+  [
+    49532,
+    "{Me}"
+  ],
+  [
+    49544,
+    "{Me}"
+  ],
+  [
+    49900,
+    "“Oh—!”"
+  ],
+  [
+    49968,
+    "Kasumi"
+  ],
+  [
+    50200,
+    "Terminus"
+  ],
+  [
+    50212,
+    "UnityEngine.DMAT"
+  ],
+  [
+    50232,
+    "FAKE_ASM"
+  ]
+]
