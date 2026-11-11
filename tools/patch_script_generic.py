@@ -1,5 +1,6 @@
-import os, re, sys, json, struct, UnityPy
-from common import read_mono_name, find_length_prefixed_strings
+import os, sys, json, struct, UnityPy
+from common import read_mono_name
+from patch_filters import get_content_entries
 
 script_name = sys.argv[1]
 ko_path_id = int(sys.argv[2])
@@ -9,47 +10,6 @@ OUT_DIR = sys.argv[4] if len(sys.argv) > 4 else r"C:\Users\varam\AppData\Local\T
 os.makedirs(OUT_DIR, exist_ok=True)
 
 spanish_ordered = json.load(open(es_file, encoding="utf-8"))
-
-KNOWN = {"Naninovel","Elringus.Naninovel.Runtime","EmptyScriptLine","LabelScriptLine",
-         "CommentScriptLine","GenericTextScriptLine","Naninovel.Commands","PrintText",
-         script_name,"UnityEngine.DMAT","FAKE_ASM","Terminus","{Me}", "ChoiceScriptLine",
-         "Naninovel.Commands.CG", "AudioScriptLine", "CommandScriptLine",
-         "GirlA","Sizuko","Sizuko2","Kasumi","Ayano","Shizuku","All","PlaySfx",
-         "WaitForInput","ModifyCharacter","Ayano2","Kasumi2","Shizuku2","Sizuko3",
-         "InputCustomVariable","Me","Protagonist","KasumiFace","AyanoFace","ShizukuFace",
-         "SizukoFace","KasumiFree","AyanoFree","ShizukuFree","SizukoFree","주인공",
-         "AddChoice","ChoiceScriptLine","SkipInput","Goto","End","01_Main",
-         "Ayano?","Kasumi?","Shizuku?","Sizuko?","ShowToastUI","ShowToastUI2",
-         "ModifyBackground","ModifyCharacter2","PlayAnimation"}
-hex_re = re.compile(r"^[0-9a-f]{5,10}$")
-sfx_re = re.compile(r"^SE\d+$")
-assign_re = re.compile(r"^[A-Za-z_][A-Za-z0-9_]*\s*[!=<>]=?\s*-?\d+$")
-varref_re = re.compile(r"^\{[A-Za-z_][A-Za-z0-9_]*\}$")
-colorhex_re = re.compile(r"^#[0-9a-fA-F]{3,8}$")
-cgname_re = re.compile(r"^[A-Za-z]+CG\d+")
-
-def is_metadata(text):
-    if text in KNOWN: return True
-    if hex_re.match(text): return True
-    if sfx_re.match(text): return True
-    if assign_re.match(text): return True
-    if varref_re.match(text): return True
-    if colorhex_re.match(text): return True
-    if cgname_re.match(text): return True
-    if text.startswith("Chinese (T)"): return True
-    if text.startswith("@"): return True
-    if len(text) <= 1: return True
-    return False
-
-def get_content_entries(raw, ds):
-    strs = find_length_prefixed_strings(raw, ds)
-    out = []
-    for off, text in strs:
-        if is_metadata(text): continue
-        if any('\u4e00' <= c <= '\u9fff' for c in text): continue
-        if re.match(r'^\{?[A-Za-z_][A-Za-z0-9_]*\}?:\s', text): continue
-        out.append((off, text))
-    return out
 
 env = UnityPy.load(RESOURCES_PATH)
 
@@ -67,7 +27,7 @@ name, ds = read_mono_name(raw)
 if name != script_name:
     raise SystemExit(f"name mismatch: expected {script_name}, got {name}")
 
-ko_entries = get_content_entries(raw, ds)
+ko_entries = get_content_entries(raw, ds, script_name)
 print("Korean content entries found:", len(ko_entries))
 print("Spanish translations available:", len(spanish_ordered))
 

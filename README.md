@@ -10,8 +10,9 @@ Traducción no oficial, hecha por fans, del visual novel **Summer Clover** de St
 
 - ✅ Todo el texto de menús/sistema (23 categorías de "managed text": nombres, UI, mapa, cocina, tienda, etc.)
 - ✅ Ruta común (`A_Story`, 12 guiones)
-- 🔄 Ruta de Kasumi: 8/10 capítulos principales traducidos (faltan 09 y 10, más varios guiones secundarios)
-- ⏳ Rutas de Ayano, Shizuku y Sizuko: pendientes
+- ✅ Ruta de Kasumi completa: 10/10 capítulos principales, 5 guiones secundarios y las 10 escenas de galería (KasumiHCG01-10)
+- ✅ Ruta de Ayano completa: 8 guiones de `F_Story2`, 10/10 capítulos principales (`Ayano_01-10`), 5 guiones secundarios y las 10 escenas de galería (AyanoHCG01-10)
+- ⏳ Rutas de Shizuku y Sizuko: pendientes
 - ⏳ Guiones varios (cocina, cuarto, minijuegos, etc.): pendientes
 
 Este es un trabajo en progreso. Las traducciones se van agregando guion por guion, verificadas en el juego antes de subirlas.
@@ -34,17 +35,22 @@ Los guiones de diálogo compilados por Naninovel son objetos `MonoBehaviour` ser
 ```
 tools/                      Scripts de Python para extraer y parchear texto
   common.py                 Helpers de bajo nivel para parsear el blob binario
+  patch_filters.py          Filtro compartido: separa diálogo real de metadatos/comandos
   extract_script_en.py      Extrae el texto en inglés de un guion (referencia para traducir)
+  extract_pair.py           Extrae inglés + presupuesto de bytes coreano en un solo .json
   patch_script_generic.py   Aplica una traducción .json sobre un guion, validando bytes
   patch_menu.py / 2 / 3     Scripts usados para parchear las categorías de menú/sistema
 
 translations/
   menus/                    Traducciones de las categorías de texto de sistema/menú
   A_Story/                  Ruta común (prólogo + capítulos compartidos)
-  Kasumi/                   Ruta de Kasumi (capítulos principales)
+  Kasumi/                   Ruta de Kasumi (10 capítulos + guiones secundarios)
+    gallery/                 Escenas de repetición de la galería (KasumiHCG01-10)
+  Ayano/                    Ruta de Ayano (F_Story2 + 10 capítulos + guiones secundarios)
+    gallery/                 Escenas de repetición de la galería (AyanoHCG01-10)
 ```
 
-Cada guion de diálogo tiene un par de archivos `<Nombre>_en.json` (referencia en inglés, orden original) y `<Nombre>_es.json` (traducción en español, mismo orden y mismo conteo de entradas).
+Cada guion de diálogo tiene su traducción en `<Nombre>_es.json` (array plano, mismo orden y conteo que las entradas coreanas). La referencia en inglés aparece como `<Nombre>_en.json` (formato antiguo) o, en los guiones más recientes, dentro de `<Nombre>_pair.json` — un array de objetos `{"en": "...", "ko_bytes": N}` que además indica el presupuesto de bytes de cada línea para facilitar la traducción.
 
 ## Cómo aplicar el patch
 
