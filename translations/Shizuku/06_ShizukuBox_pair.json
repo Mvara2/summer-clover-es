@@ -1,0 +1,938 @@
+[
+  {
+    "en": "“Just relax around here. That'll make things much better.”",
+    "ko_bytes": 48
+  },
+  {
+    "en": "“As long as you don't do anything weird, Kasumi should be easy to talk to.”",
+    "ko_bytes": 96
+  },
+  {
+    "en": "“We're probably the ones doing the weird stuff...”",
+    "ko_bytes": 85
+  },
+  {
+    "en": "You have a pleasant chat with Shizuku. You both enjoy the conversation!",
+    "ko_bytes": 43
+  },
+  {
+    "en": "“I lived here for a while when I was younger, but I don't remember much.”",
+    "ko_bytes": 82
+  },
+  {
+    "en": "“But there's still a sense of nostalgia.”",
+    "ko_bytes": 49
+  },
+  {
+    "en": "You have a pleasant chat with Shizuku. You both enjoy the conversation!",
+    "ko_bytes": 43
+  },
+  {
+    "en": "“Not being able to use a computer here is really, really frustrating...”",
+    "ko_bytes": 75
+  },
+  {
+    "en": "“It's not that I can't, but I'm not allowed to, you know?”",
+    "ko_bytes": 92
+  },
+  {
+    "en": "You have a pleasant chat with Shizuku. You both enjoy the conversation!",
+    "ko_bytes": 43
+  },
+  {
+    "en": "“I hate being a nun... having to force myself to talk to others...”",
+    "ko_bytes": 91
+  },
+  {
+    "en": "“Even though it's mostly just nodding your head and saying 'Oh?' and 'Ahhh...', I still hate it.”",
+    "ko_bytes": 85
+  },
+  {
+    "en": "You have a pleasant chat with Shizuku. You both enjoy the conversation!",
+    "ko_bytes": 43
+  },
+  {
+    "en": "“It's best to stay at home at night.”",
+    "ko_bytes": 57
+  },
+  {
+    "en": "“There's no streetlights. Pitch black with no people around...”",
+    "ko_bytes": 80
+  },
+  {
+    "en": "“And there's a haunted abandoned hospital nearby.”",
+    "ko_bytes": 59
+  },
+  {
+    "en": "“If you get lost at night, I won't come looking for you.”",
+    "ko_bytes": 69
+  },
+  {
+    "en": "You have a pleasant chat with Shizuku. You both enjoy the conversation!",
+    "ko_bytes": 43
+  },
+  {
+    "en": "“Hehehe... I know what's going on.”",
+    "ko_bytes": 36
+  },
+  {
+    "en": "“You go to Shizuko's every few days and don't come back until really, really late.”",
+    "ko_bytes": 99
+  },
+  {
+    "en": "“I... wanna meet you when you come back, no matter how late it is~”",
+    "ko_bytes": 102
+  },
+  {
+    "en": "You talk with Shizuku and the vibe starts getting pretty hot and heavy.",
+    "ko_bytes": 103
+  },
+  {
+    "en": "“Um... I've got some stuff I wanna talk with you about.”",
+    "ko_bytes": 79
+  },
+  {
+    "en": "“Can you come to my room?”",
+    "ko_bytes": 53
+  },
+  {
+    "en": "“Okay!”",
+    "ko_bytes": 13
+  },
+  {
+    "en": "You talk with Shizuku and the vibe starts getting pretty hot and heavy.",
+    "ko_bytes": 103
+  },
+  {
+    "en": "“Um... Can you only stay with me at night?”",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“I want your love~”",
+    "ko_bytes": 72
+  },
+  {
+    "en": "“I want it all to myself.”",
+    "ko_bytes": 52
+  },
+  {
+    "en": "You talk with Shizuku and the vibe starts getting pretty hot and heavy.",
+    "ko_bytes": 103
+  },
+  {
+    "en": "“I'm gonna show my dad what I'm capable of!”",
+    "ko_bytes": 87
+  },
+  {
+    "en": "“I'm gonna show him that you weren't wrong! Cuz you believe in me!”",
+    "ko_bytes": 180
+  },
+  {
+    "en": "“You'll see! Heehee~”",
+    "ko_bytes": 37
+  },
+  {
+    "en": "You talk with Shizuku and the vibe starts getting pretty hot and heavy.",
+    "ko_bytes": 103
+  },
+  {
+    "en": "“Are you wearing my glove when you're cooking?”",
+    "ko_bytes": 58
+  },
+  {
+    "en": "“That makes me so happy!”",
+    "ko_bytes": 39
+  },
+  {
+    "en": "“You can show me how to sew better when you get the time!”",
+    "ko_bytes": 63
+  },
+  {
+    "en": "You talk with Shizuku and the vibe starts getting pretty hot and heavy.",
+    "ko_bytes": 103
+  },
+  {
+    "en": "“...What are you talking about?”",
+    "ko_bytes": 30
+  },
+  {
+    "en": "“Oh... are you telling a joke?”",
+    "ko_bytes": 36
+  },
+  {
+    "en": "“Sorry, I didn't get the punchline.”",
+    "ko_bytes": 71
+  },
+  {
+    "en": "There's an awkward vibe between you and Shizuku.",
+    "ko_bytes": 42
+  },
+  {
+    "en": "“...Isn't that an old joke from a book?”",
+    "ko_bytes": 71
+  },
+  {
+    "en": "“Even the kids in the village know that one.”",
+    "ko_bytes": 56
+  },
+  {
+    "en": "There's an awkward vibe between you and Shizuku.",
+    "ko_bytes": 42
+  },
+  {
+    "en": "“Are you trying to cheer me up?”",
+    "ko_bytes": 43
+  },
+  {
+    "en": "“It's not very funny, but thanks anyway.”",
+    "ko_bytes": 47
+  },
+  {
+    "en": "There's an awkward vibe between you and Shizuku.",
+    "ko_bytes": 42
+  },
+  {
+    "en": "“I know you're trying really hard to make me happy!”",
+    "ko_bytes": 57
+  },
+  {
+    "en": "“But everyone's already seen all these! Haha... ",
+    "ko_bytes": 77
+  },
+  {
+    "en": "Left",
+    "ko_bytes": 4
+  },
+  {
+    "en": "It's okay. I'm glad you tried!”",
+    "ko_bytes": 43
+  },
+  {
+    "en": "Shizuku and you have a great time together.",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“Now I realize that you were trying to get closer to me before.”",
+    "ko_bytes": 95
+  },
+  {
+    "en": "“That's why you were saying all those stupid jokes.”",
+    "ko_bytes": 62
+  },
+  {
+    "en": "“So cute!”",
+    "ko_bytes": 49
+  },
+  {
+    "en": "Shizuku and you have a great time together.",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“I like whatever you say...”",
+    "ko_bytes": 99
+  },
+  {
+    "en": "“So come talk to me whenever you want!”",
+    "ko_bytes": 70
+  },
+  {
+    "en": "Shizuku and you have a great time together.",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“I don't like cooking...”",
+    "ko_bytes": 32
+  },
+  {
+    "en": "“I have some unpleasant memories associated with it...”",
+    "ko_bytes": 38
+  },
+  {
+    "en": "Shizuku seems reluctant to talk about anything related to cooking.",
+    "ko_bytes": 68
+  },
+  {
+    "en": "“Shizuku seems to like cooking.”",
+    "ko_bytes": 57
+  },
+  {
+    "en": "“But compared to Kasumi, it's really not that good...”",
+    "ko_bytes": 80
+  },
+  {
+    "en": "“It reminds me of that taste again...”",
+    "ko_bytes": 45
+  },
+  {
+    "en": "Shizuku seems to be recalling some not-so-good memories.",
+    "ko_bytes": 65
+  },
+  {
+    "en": "“I think cooking is quite complicated.”",
+    "ko_bytes": 41
+  },
+  {
+    "en": "“You have to constantly watch the heat, handle the ingredients, and it's easy to get flustered.”",
+    "ko_bytes": 109
+  },
+  {
+    "en": "“For someone like me who can't multitask well, it's like playing on hard mode.”",
+    "ko_bytes": 87
+  },
+  {
+    "en": "Shizuku seems to be recalling some not-so-good memories.",
+    "ko_bytes": 65
+  },
+  {
+    "en": "“To be honest, I really love your cooking, but I actually like Kasumi's much more.”",
+    "ko_bytes": 121
+  },
+  {
+    "en": "“I mean, she's cooked for us ever since we were little.”",
+    "ko_bytes": 95
+  },
+  {
+    "en": "“Ahh! I didn't mean it like that! I'm serious!!!”",
+    "ko_bytes": 121
+  },
+  {
+    "en": "Shizuku and you have a great time together.",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“Your desserts are so good!”",
+    "ko_bytes": 53
+  },
+  {
+    "en": "“I could eat them forever!”",
+    "ko_bytes": 53
+  },
+  {
+    "en": "“But I don't want to get fat... Hey! Do you want to go exercise with me?”",
+    "ko_bytes": 108
+  },
+  {
+    "en": "Shizuku and you have a great time together.",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“I used to mimic Kasumi and cook for everyone.”",
+    "ko_bytes": 113
+  },
+  {
+    "en": "“But I was so small that I just messed it up.”",
+    "ko_bytes": 82
+  },
+  {
+    "en": "“Our mom yelled at me, so that always followed me around.”",
+    "ko_bytes": 97
+  },
+  {
+    "en": "“My sisters stood up for me though, so I was pretty happy about that. Haha~”",
+    "ko_bytes": 128
+  },
+  {
+    "en": "Shizuku and you have a great time together.",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“Even though I don't have any work experience yet, I do have something I want to do.”",
+    "ko_bytes": 65
+  },
+  {
+    "en": "“I hope I can really work towards that goal.”",
+    "ko_bytes": 61
+  },
+  {
+    "en": "“Sharing it with you is like giving myself a boost, keeping it inside often snuffs out the enthusiasm.”",
+    "ko_bytes": 122
+  },
+  {
+    "en": "You and Shizuku talk about future aspirations, creating a relaxed and hopeful atmosphere.",
+    "ko_bytes": 74
+  },
+  {
+    "en": "“Shizuku is much better on that front.”",
+    "ko_bytes": 75
+  },
+  {
+    "en": "“I don't think I can do things like her...”",
+    "ko_bytes": 64
+  },
+  {
+    "en": "“You'll understand what I mean, eventually.”",
+    "ko_bytes": 80
+  },
+  {
+    "en": "You and Shizuku talk about future aspirations, creating a relaxed and hopeful atmosphere.",
+    "ko_bytes": 74
+  },
+  {
+    "en": "“Right now, I'm still living off my parents.”",
+    "ko_bytes": 69
+  },
+  {
+    "en": "“I hope to be like you one day, living independently and relying on myself.”",
+    "ko_bytes": 63
+  },
+  {
+    "en": "You and Shizuku talk about future aspirations, creating a relaxed and hopeful atmosphere.",
+    "ko_bytes": 74
+  },
+  {
+    "en": "“If I don't do well, I hope you'll be honest with me.”",
+    "ko_bytes": 84
+  },
+  {
+    "en": "“I've always believed that you'll progress much faster if you listen to your teachers and the critics.”",
+    "ko_bytes": 102
+  },
+  {
+    "en": "“Sometimes I get a little depressed... I put so much into my writing I just want it to be the best.”",
+    "ko_bytes": 100
+  },
+  {
+    "en": "You and Shizuku talk about future aspirations, creating a relaxed and hopeful atmosphere.",
+    "ko_bytes": 74
+  },
+  {
+    "en": "“I also play music too, you know!”",
+    "ko_bytes": 74
+  },
+  {
+    "en": "“But I'm not much of a performer.”",
+    "ko_bytes": 117
+  },
+  {
+    "en": "You and Shizuku talk about future aspirations, creating a relaxed and hopeful atmosphere.",
+    "ko_bytes": 74
+  },
+  {
+    "en": "“I understand that making it in this industry isn't easy...”",
+    "ko_bytes": 98
+  },
+  {
+    "en": "“Even if you make some progress, there's always more hurdles ahead.”",
+    "ko_bytes": 91
+  },
+  {
+    "en": "“But if you don't try, you won't even know if you can do it or not.”",
+    "ko_bytes": 93
+  },
+  {
+    "en": "“So I'm gonna keep working hard, and you need to keep encouraging me!”",
+    "ko_bytes": 85
+  },
+  {
+    "en": "You and Shizuku talk about future aspirations, creating a relaxed and hopeful atmosphere.",
+    "ko_bytes": 74
+  },
+  {
+    "en": "“...I went to an all-girls school.”",
+    "ko_bytes": 52
+  },
+  {
+    "en": "“But to say I'm not interested... Nah, it's not like that...”",
+    "ko_bytes": 73
+  },
+  {
+    "en": "You discuss the topic of romance with Shizuku, who seems a bit shy.",
+    "ko_bytes": 90
+  },
+  {
+    "en": "“...Actually, I'm quite envious of Shizuku.”",
+    "ko_bytes": 54
+  },
+  {
+    "en": "“She's so free-spirited, gets along well with everyone, and is so proactive.”",
+    "ko_bytes": 90
+  },
+  {
+    "en": "“I can't even make friends with other girls...”",
+    "ko_bytes": 56
+  },
+  {
+    "en": "“No, it's nothing, I think I've said too much...”",
+    "ko_bytes": 64
+  },
+  {
+    "en": "You discuss the topic of romance with Shizuku, who seems a bit shy.",
+    "ko_bytes": 90
+  },
+  {
+    "en": "“...What does it feel like to have a boyfriend?”",
+    "ko_bytes": 57
+  },
+  {
+    "en": "“I've been thinking about this a lot lately, but I can't come to a conclusion...”",
+    "ko_bytes": 99
+  },
+  {
+    "en": "“So you've never been in a relationship either... I couldn't tell...”",
+    "ko_bytes": 80
+  },
+  {
+    "en": "You discuss the topic of romance with Shizuku, who seems a bit shy.",
+    "ko_bytes": 90
+  },
+  {
+    "en": "“I'm so happy right now!”",
+    "ko_bytes": 47
+  },
+  {
+    "en": "“After all, the first guy that I like is so handsome~”",
+    "ko_bytes": 70
+  },
+  {
+    "en": "“Yup, that's you~”",
+    "ko_bytes": 26
+  },
+  {
+    "en": "Shizuku keeps flirting with you and it feels great!",
+    "ko_bytes": 107
+  },
+  {
+    "en": "“I was so accustomed to being alone.”",
+    "ko_bytes": 69
+  },
+  {
+    "en": "“But I can't go back to that...”",
+    "ko_bytes": 82
+  },
+  {
+    "en": "“What should I do, {Me}?”",
+    "ko_bytes": 53
+  },
+  {
+    "en": "Shizuku keeps flirting with you and it feels great!",
+    "ko_bytes": 107
+  },
+  {
+    "en": "“It used to just be Kasumi, Ayano, and me...”",
+    "ko_bytes": 82
+  },
+  {
+    "en": "“But now I've got Shizuko...”",
+    "ko_bytes": 82
+  },
+  {
+    "en": "“And a hot guy that I like!”",
+    "ko_bytes": 96
+  },
+  {
+    "en": "Shizuku keeps flirting with you and it feels great!",
+    "ko_bytes": 107
+  },
+  {
+    "en": "“Hmm...? Books, yes, I really like reading all kinds of books.”",
+    "ko_bytes": 65
+  },
+  {
+    "en": "“You too? Hmm... I couldn't tell. I figured you only read porno mags.”",
+    "ko_bytes": 86
+  },
+  {
+    "en": "“We should talk about books sometime.”",
+    "ko_bytes": 56
+  },
+  {
+    "en": "Shizuku seems very interested in various kinds of books.",
+    "ko_bytes": 58
+  },
+  {
+    "en": "“I also really like music.”",
+    "ko_bytes": 34
+  },
+  {
+    "en": "“Do you want to listen to some?”",
+    "ko_bytes": 19
+  },
+  {
+    "en": "“Metal is the best for cleansing the soul!”",
+    "ko_bytes": 72
+  },
+  {
+    "en": "Shizuku appears to really like hard rock...",
+    "ko_bytes": 59
+  },
+  {
+    "en": "“Listening to music and reading romance novels before bed is the best.”",
+    "ko_bytes": 92
+  },
+  {
+    "en": "“Without a computer, it's become my only pastime!”",
+    "ko_bytes": 86
+  },
+  {
+    "en": "“...What's with that expression?”",
+    "ko_bytes": 40
+  },
+  {
+    "en": "Shizuku brings up a topic of interest, but your expression makes her feel somewhat uneasy.",
+    "ko_bytes": 133
+  },
+  {
+    "en": "“What do I like besides books and music?”",
+    "ko_bytes": 49
+  },
+  {
+    "en": "“Um... movies?”",
+    "ko_bytes": 37
+  },
+  {
+    "en": "“Especially watching them with my sisters!”",
+    "ko_bytes": 77
+  },
+  {
+    "en": "Shizuku happily talks about her sisters.",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“Yeah, listening to metal makes me relax!”",
+    "ko_bytes": 69
+  },
+  {
+    "en": "“I especially love listening to it before bed.”",
+    "ko_bytes": 43
+  },
+  {
+    "en": "“Eh? It's not good for your heart?!”",
+    "ko_bytes": 35
+  },
+  {
+    "en": "Shizuku looks especially happy talking about her own interests.",
+    "ko_bytes": 73
+  },
+  {
+    "en": "“You want to borrow some books?”",
+    "ko_bytes": 33
+  },
+  {
+    "en": "“Of course you can! Just come to my room!”",
+    "ko_bytes": 51
+  },
+  {
+    "en": "“I've got so many books there. Everything from world literature to smut!”",
+    "ko_bytes": 97
+  },
+  {
+    "en": "Shizuku looks especially happy talking about her own interests.",
+    "ko_bytes": 73
+  },
+  {
+    "en": "“You like that band too?”",
+    "ko_bytes": 60
+  },
+  {
+    "en": "“...Oh, you don't? Then I'd suggest giving them a listen.”",
+    "ko_bytes": 68
+  },
+  {
+    "en": "Shizuku introduces a popular rock band to me.",
+    "ko_bytes": 70
+  },
+  {
+    "en": "“There are many facets to what's trending.”",
+    "ko_bytes": 43
+  },
+  {
+    "en": "“Clothes, fashion, blah blah blah. I'm clueless.”",
+    "ko_bytes": 69
+  },
+  {
+    "en": "“But when it comes to trendy internet slang, I'm pretty good at that.”",
+    "ko_bytes": 81
+  },
+  {
+    "en": "Shizuku looks at me with a mischievous smile, making me feel a bit uneasy.",
+    "ko_bytes": 98
+  },
+  {
+    "en": "“I think a new episode of that series came out today.”",
+    "ko_bytes": 69
+  },
+  {
+    "en": "“...You haven't watched it? You really should.”",
+    "ko_bytes": 51
+  },
+  {
+    "en": "Shizuku appears to be a big fan of a deep and engaging series.",
+    "ko_bytes": 48
+  },
+  {
+    "en": "“It's thanks to Kasumi that I like music so much.”",
+    "ko_bytes": 71
+  },
+  {
+    "en": "“After all, she knows a lot about music.”",
+    "ko_bytes": 65
+  },
+  {
+    "en": "“Look, she got me this autograph!”",
+    "ko_bytes": 76
+  },
+  {
+    "en": "Shizuku looks really happy talking about popular rock bands.",
+    "ko_bytes": 81
+  },
+  {
+    "en": "“Today is finally here!”",
+    "ko_bytes": 57
+  },
+  {
+    "en": "“C'mon, c'mon! Let's go find Shizuko.”",
+    "ko_bytes": 47
+  },
+  {
+    "en": "“I can't wait to read a book with you~”",
+    "ko_bytes": 54
+  },
+  {
+    "en": "Shizuku is so excited about the release of a new book!",
+    "ko_bytes": 75
+  },
+  {
+    "en": "“It's not that I hate getting dressed up...”",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“It's just I really don't know how to do it.”",
+    "ko_bytes": 78
+  },
+  {
+    "en": "“Otherwise, I'd love to dress up all cute and sexy for you~”",
+    "ko_bytes": 142
+  },
+  {
+    "en": "Shizuku looks a little shy, but she shows another side of herself to you!",
+    "ko_bytes": 53
+  },
+  {
+    "en": "“Ah...”",
+    "ko_bytes": 15
+  },
+  {
+    "en": "“Thank you.”",
+    "ko_bytes": 23
+  },
+  {
+    "en": "“Thanks a lot...”",
+    "ko_bytes": 21
+  },
+  {
+    "en": "Shizuku seems shaken by the sudden compliment.",
+    "ko_bytes": 63
+  },
+  {
+    "en": "“I'm not in a bad mood.”",
+    "ko_bytes": 41
+  },
+  {
+    "en": "“Maybe it's just another night of not getting enough sleep...”",
+    "ko_bytes": 68
+  },
+  {
+    "en": "“Yeah, could you make me a cup of hot milk?”",
+    "ko_bytes": 46
+  },
+  {
+    "en": "Shizuku seems really happy that you care.",
+    "ko_bytes": 57
+  },
+  {
+    "en": "“Something bothering you?”",
+    "ko_bytes": 26
+  },
+  {
+    "en": "“A little bit...”",
+    "ko_bytes": 28
+  },
+  {
+    "en": "“Then, how about we chat for a bit?”",
+    "ko_bytes": 38
+  },
+  {
+    "en": "Shizuku seems really happy that you care.",
+    "ko_bytes": 57
+  },
+  {
+    "en": "“Huh? I look cute no matter what?”",
+    "ko_bytes": 42
+  },
+  {
+    "en": "“I... I know... Haha. You don't have to keep saying it.”",
+    "ko_bytes": 73
+  },
+  {
+    "en": "“I'm just not used to that kind of stuff...”",
+    "ko_bytes": 61
+  },
+  {
+    "en": "Shizuku looks pleased with your praises.",
+    "ko_bytes": 47
+  },
+  {
+    "en": "“R-Really?”",
+    "ko_bytes": 21
+  },
+  {
+    "en": "“You really like the new section?”",
+    "ko_bytes": 53
+  },
+  {
+    "en": "“Haha... Amazing!”",
+    "ko_bytes": 30
+  },
+  {
+    "en": "Shizuku looks pleased with your praises.",
+    "ko_bytes": 57
+  },
+  {
+    "en": "“I look cute when I smile?”",
+    "ko_bytes": 53
+  },
+  {
+    "en": "“I... Ha... S-sorry... I just didn't know you that well before.”",
+    "ko_bytes": 93
+  },
+  {
+    "en": "“But I'm so happy to hear you say that. You're pretty handsome yourself!”",
+    "ko_bytes": 86
+  },
+  {
+    "en": "Shizuku looks pleased with your praises.",
+    "ko_bytes": 54
+  },
+  {
+    "en": "“......”",
+    "ko_bytes": 18
+  },
+  {
+    "en": "The mood seems to be a little awkward.",
+    "ko_bytes": 36
+  },
+  {
+    "en": "“Are you horny or something?”",
+    "ko_bytes": 31
+  },
+  {
+    "en": "“I heard guys think about that stuff every three seconds, is that true for you?”",
+    "ko_bytes": 83
+  },
+  {
+    "en": "Shizuku's blushing faintly.",
+    "ko_bytes": 54
+  },
+  {
+    "en": "“Um...”",
+    "ko_bytes": 20
+  },
+  {
+    "en": "“I'm not pretending to be calm...”",
+    "ko_bytes": 54
+  },
+  {
+    "en": "Shizuku's blushing faintly.",
+    "ko_bytes": 54
+  },
+  {
+    "en": "“You're wrong!”",
+    "ko_bytes": 30
+  },
+  {
+    "en": "“That's how girls should be!”",
+    "ko_bytes": 49
+  },
+  {
+    "en": "Shizuku's blushing faintly.",
+    "ko_bytes": 54
+  },
+  {
+    "en": "“Naughty boy...”",
+    "ko_bytes": 56
+  },
+  {
+    "en": "“Telling me you like that in secret~”",
+    "ko_bytes": 32
+  },
+  {
+    "en": "Shizuku looks a little excited.",
+    "ko_bytes": 50
+  },
+  {
+    "en": "“Like this?”",
+    "ko_bytes": 16
+  },
+  {
+    "en": "“Well, let me tell you something too...”",
+    "ko_bytes": 59
+  },
+  {
+    "en": "“Are—you—ready—♡”",
+    "ko_bytes": 27
+  },
+  {
+    "en": "Shizuku whispers something in your ear that makes you blush.",
+    "ko_bytes": 73
+  },
+  {
+    "en": "“Oh...?”",
+    "ko_bytes": 53
+  },
+  {
+    "en": "“How about we try that next time?”",
+    "ko_bytes": 50
+  },
+  {
+    "en": "Shizuku looks a little excited.",
+    "ko_bytes": 50
+  },
+  {
+    "en": "“Let's talk later. Not feeling too good right now.”",
+    "ko_bytes": 56
+  },
+  {
+    "en": "“Maybe I didn't sleep well, I want some alone time.”",
+    "ko_bytes": 60
+  },
+  {
+    "en": "“Sorry... I don't really feel like talking right now...”",
+    "ko_bytes": 58
+  },
+  {
+    "en": "“Hmph! Don't change the topic.”",
+    "ko_bytes": 40
+  },
+  {
+    "en": "“Look at me. Do you know what I want?”",
+    "ko_bytes": 70
+  },
+  {
+    "en": "Shizuku is staring at you like she's in heat.",
+    "ko_bytes": 60
+  },
+  {
+    "en": "“No need to hold back...”",
+    "ko_bytes": 42
+  },
+  {
+    "en": "“I want your love...”",
+    "ko_bytes": 61
+  },
+  {
+    "en": "Shizuku is staring at you like she's in heat.",
+    "ko_bytes": 60
+  },
+  {
+    "en": "“Do you know what I'm thinking?”",
+    "ko_bytes": 49
+  },
+  {
+    "en": "“I—want—{Me}—all—to—myself!”",
+    "ko_bytes": 91
+  },
+  {
+    "en": "Shizuku is staring at you like she's in heat.",
+    "ko_bytes": 60
+  }
+]

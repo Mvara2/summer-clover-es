@@ -7,20 +7,23 @@ script_name = sys.argv[1]
 path = r"C:\Program Files (x86)\Steam\steamapps\common\ConnectionGame\SummerClover\SummerClover_Data\resources.assets.ORIGINAL_BACKUP"
 env = UnityPy.load(path)
 
-name_map = json.load(open("extracted/name_map.json", encoding="utf-8"))
-candidates = name_map[script_name]
-
 headers = {}
 for obj in env.objects:
-    for c in candidates:
-        if obj.path_id == c["path_id"]:
-            raw = obj.get_raw_data()
-            hstrs = find_length_prefixed_strings(raw, 0, max_len=300)
-            h = None
-            for off, text in hstrs:
-                if 'localization document' in text:
-                    h = text; break
-            headers[c["path_id"]] = h
+    if obj.type.name != "MonoBehaviour":
+        continue
+    raw = obj.get_raw_data()
+    try:
+        name, ds = read_mono_name(raw)
+    except Exception:
+        continue
+    if name != script_name:
+        continue
+    hstrs = find_length_prefixed_strings(raw, 0, max_len=300)
+    h = None
+    for off, text in hstrs:
+        if 'localization document' in text:
+            h = text; break
+    headers[obj.path_id] = h
 
 print(json.dumps(headers, ensure_ascii=False, indent=2))
 

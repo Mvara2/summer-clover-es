@@ -11,7 +11,7 @@ BASE_KNOWN = {"Naninovel","Elringus.Naninovel.Runtime","EmptyScriptLine","LabelS
          "SizukoFace","KasumiFree","AyanoFree","ShizukuFree","SizukoFree","주인공",
          "AddChoice","ChoiceScriptLine","SkipInput","Goto","End","01_Main",
          "Ayano?","Kasumi?","Shizuku?","Sizuko?","ShowToastUI","ShowToastUI2",
-         "ModifyBackground","ModifyCharacter2","PlayAnimation"}
+         "ModifyBackground","ModifyCharacter2","PlayAnimation","ShowToastUI3"}
 hex_re = re.compile(r"^[0-9a-f]{5,10}$")
 sfx_re = re.compile(r"^SE\d+$")
 assign_re = re.compile(r"^[A-Za-z_][A-Za-z0-9_]*\s*[!=<>]=?\s*-?\d+$")
